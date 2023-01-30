@@ -1,0 +1,20 @@
+name,phone,postalZip
+Rae Soto,(481) 684-1755,51347
+Steven Foster,(188) 211-7436,K6M 3A2
+Hedy Lawrence,1-796-148-1569,V3 0EQ
+Vivien Langley,(522) 855-6610,237118
+Raya Tucker,(896) 817-5136,14633
+Kalia Holland,1-421-911-3645,1322 VC
+Venus Rollins,(892) 579-8723,2569
+Elvis Combs,1-586-214-1442,79287
+Olivia Norris,1-544-219-7118,32368
+Perry Davis,1-443-834-6333,306218
+Harper Emerson,(425) 707-5782,46951
+Moses Stewart,(844) 327-7905,53455
+Dai Rosales,(785) 647-1752,71611
+Indira Ware,(797) 827-2730,7153
+Harrison Reid,(235) 833-2628,17225
+Ira Chapman,(624) 812-6832,83158
+Wade Floyd,1-581-664-3274,1359
+Amela Jimenez,1-377-528-0874,94-204
+Jana Brown,1-222-486-3772,4
